@@ -128,7 +128,7 @@ I enjoy building practical solutions, contributing to technical communities, and
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Koustav-Source
-* LinkedIn: Add Your LinkedIn Profile
+* LinkedIn: https://www.linkedin.com/in/koustav-dey-3a13bb310/
 * Email: [koustavdeydey@gmail.com](mailto:koustavdeydey@gmail.com)
 
 ---
